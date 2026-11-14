@@ -1,0 +1,8 @@
+{
+"package":"com.trimui.file",
+"label":"文件管理器",
+"icon":"i.png",
+"iconsel":"i.png",
+"launch":"launch.sh",
+"description":"文件管理器"
+}

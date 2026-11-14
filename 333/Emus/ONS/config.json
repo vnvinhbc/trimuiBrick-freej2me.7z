@@ -1,0 +1,15 @@
+{
+"label":"ONS",
+"icon":"i.png",
+"iconsmall":"icon-80.png",
+"iconlist":"icon-32.png",
+"background":"bg.png",
+"themecolor":"CD6155",
+"launch":"launch.sh",
+"rompath":"../../Roms/ONS",
+"imgpath":"../../Imgs/ONS",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"nsa"
+}

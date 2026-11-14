@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-Name: Virtual Keyboard Smoke
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Local
+MIDlet-1: Virtual Keyboard Smoke,,javax.microedition.lcdui.VirtualKeyboardSmokeMidlet
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+
