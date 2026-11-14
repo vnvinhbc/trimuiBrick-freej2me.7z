@@ -6,6 +6,7 @@ Allow TrimUI Brick users to enter text in Java ME games without a physical keybo
 
 ## Goals
 
+
 - Recognize the standard Java ME `TextBox` screen and a selected editable `TextField` inside a `Form`.
 - Open an on-screen keyboard automatically when the user presses OK on an editable text field.
 - Navigate keys with Up, Down, Left, and Right; activate the selected key with OK.
